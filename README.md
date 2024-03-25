@@ -7,7 +7,7 @@
 
 
 This script provides various functionalities to check the status and configuration of your Docker environment.
-
+Currently only supporting our stack (Drupal - NextJs - Nginx) to verify containers connectivity.
 
 
 ##  Usage
